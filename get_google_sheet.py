@@ -1,4 +1,4 @@
-# This script is based off of the python quickstart guide: 
+# This script is based off of the Google Workspace python quickstart guide: 
 # https://developers.google.com/sheets/api/quickstart/python#configure_the_sample
 
 import os.path
